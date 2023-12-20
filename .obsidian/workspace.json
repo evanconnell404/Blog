@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,6 +157,8 @@
   },
   "active": "95c7bdae904161a5",
   "lastOpenFiles": [
+    "index.html",
+    "Testing.md",
     "I made a blog.md"
   ]
 }
