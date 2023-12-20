@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "I made a blog.md",
+                "file": "I-made-a-blog.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "I made a blog.md",
+                "file": "I-made-a-blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "I made a blog.md",
+                "file": "I-made-a-blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "I made a blog.md"
+                "file": "I-made-a-blog.md"
               }
             }
           }
@@ -159,6 +159,6 @@
   "lastOpenFiles": [
     "index.html",
     "Testing.md",
-    "I made a blog.md"
+    "I-made-a-blog.md"
   ]
 }
