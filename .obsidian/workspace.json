@@ -26,21 +26,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b82a1c703c0e0680",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kates-post.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kates-post.md",
+                "file": "I-made-a-blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kates-post.md",
+                "file": "I-made-a-blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kates-post.md"
+                "file": "I-made-a-blog.md"
               }
             }
           }
@@ -167,12 +155,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b82a1c703c0e0680",
+  "active": "86e02c7130375b5c",
   "lastOpenFiles": [
+    "Kates-post.md",
     "_site/Kates-post.md",
     "_site/Untitled.md",
     "I-made-a-blog.md",
-    "Kates-post.md",
     "_site/index.html",
     "_site/I-made-a-blog.md",
     "_site",
