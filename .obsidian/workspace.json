@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-12-19-I-made-a-blog.md",
+                "file": "_posts/2023-12-19-Jenna's-Post.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-12-19-I-made-a-blog.md",
+                "file": "_posts/2023-12-19-Jenna's-Post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-12-19-I-made-a-blog.md",
+                "file": "_posts/2023-12-19-Jenna's-Post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-12-19-I-made-a-blog.md"
+                "file": "_posts/2023-12-19-Jenna's-Post.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "95c7bdae904161a5",
   "lastOpenFiles": [
-    "_config.yml",
     "_posts/2023-12-19-I-made-a-blog.md",
+    "_posts/2023-12-19-Jenna's-Post.md",
+    "_config.yml",
     "_site/2023/12/19/I-made-a-blog.html",
     "_site/2023/12/19",
     "_site/2023/12",
@@ -160,7 +161,6 @@
     "about.md",
     "_site/about.html",
     "about.html",
-    "_posts",
     "Kates-post.md",
     "_site/Kates-post.md",
     "_site/Untitled.md",
