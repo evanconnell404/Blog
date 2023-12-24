@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-12-19-Jenna's-Post.md",
+                "file": "_posts/2023-12-19-I-made-a-blog.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-12-19-Jenna's-Post.md",
+                "file": "_posts/2023-12-19-I-made-a-blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-12-19-Jenna's-Post.md",
+                "file": "_posts/2023-12-19-I-made-a-blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-12-19-Jenna's-Post.md"
+                "file": "_posts/2023-12-19-I-made-a-blog.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "95c7bdae904161a5",
   "lastOpenFiles": [
-    "_posts/2023-12-19-I-made-a-blog.md",
     "_posts/2023-12-19-Jenna's-Post.md",
+    "_posts/2023-12-19-I-made-a-blog.md",
     "_config.yml",
     "_site/2023/12/19/I-made-a-blog.html",
     "_site/2023/12/19",
