@@ -1,6 +1,9 @@
-# frozen_string_literal: true
-
 source "https://rubygems.org"
 
-# gem "rails"
-gem "jekyll"
+gem "jekyll", "~> 4.2.0"
+
+group :jekyll_plugins do
+  gem "jekyll-feed", "~> 0.12"
+end
+
+gem "webrick", "~> 1.8"
